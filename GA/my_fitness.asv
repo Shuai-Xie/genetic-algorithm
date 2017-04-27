@@ -1,3 +1,0 @@
-function y = my_fitness(population)
-population = 2 * (population - 0.5); 
-y = sum(population.^2, 2);

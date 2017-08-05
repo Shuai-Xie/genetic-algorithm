@@ -6,10 +6,10 @@
 
 
 [搜索算法](http://baike.baidu.com/item/%E6%90%9C%E7%B4%A2%E7%AE%97%E6%B3%95)的共同特征为：
-**①** 首先组成一组候选解
-**②** 依据某些适应性条件测算这些候选解的[适应度](http://baike.baidu.com/item/%E9%80%82%E5%BA%94%E5%BA%A6)
-**③** 根据[适应度](http://baike.baidu.com/item/%E9%80%82%E5%BA%94%E5%BA%A6)保留某些候选解，放弃其他候选解
-**④** 对保留的候选解进行某些操作，生成新的候选解
+1. 首先组成一组候选解
+1. 依据某些适应性条件测算这些候选解的[适应度](http://baike.baidu.com/item/%E9%80%82%E5%BA%94%E5%BA%A6)
+1. 根据[适应度](http://baike.baidu.com/item/%E9%80%82%E5%BA%94%E5%BA%A6)保留某些候选解，放弃其他候选解
+1. 对保留的候选解进行某些操作，生成新的候选解
 
 
 ![遗传算法流程](http://upload-images.jianshu.io/upload_images/1877813-4b08f7f282e0e277.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
